@@ -1,7 +1,7 @@
 # git_job_print_example.py
 
 def main():
-    print({{job.parameters.text}})
+    print("Hello, world!")
 
 if __name__ == '__main__':
     main()
